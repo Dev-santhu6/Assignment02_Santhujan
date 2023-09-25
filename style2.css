@@ -1,0 +1,210 @@
+.buttt{
+    background-color: rgb(233, 114, 34) !important;
+    border-radius: 20px;
+    padding: 8px;
+    border-color:rgb(233, 114, 34) ;
+}
+.buttt:hover{
+    background-color: rgb(253, 151, 83) !important;
+    border-color:rgb(253, 151, 83) ;
+}
+body{
+    margin: 0 260x;
+}
+.navbar .navbar-brand{
+    font-size: 25px;
+    font-weight:bolder;
+    color: rgb(82, 221, 77) !important;
+    border-radius: 2px;
+
+    }
+    #navbarSupportedContent a{
+        color: rgb(94, 173, 219);
+        border-bottom: 2px solid rgb(75, 202, 224) transparent;
+
+    }
+    #navbarSupportedContent a:hover{
+        color: #fa761d;
+        border-bottom: 2px solid rgb(75, 202, 224);
+
+    }
+    .sec22{
+        width: 100%;
+        height: 70px;
+        padding: 0;
+        background-color: rgb(243, 225, 203);
+    }
+    .di123{
+        padding: 35px;
+        float:right;
+    }
+    .unlis li{
+        list-style: none;
+        display: inline;
+        text-align: justify;
+        color: #000;
+      }
+      .lis a{
+        padding: 10px;
+        color: rgb(0, 0, 0);
+      }
+      .lis a:hover{
+        color: #fa761d;
+      }
+      .sect1{
+        background-color: rgb(255, 255, 255);
+        width: 100%;
+        padding: 0 0 40px 0;
+
+      }
+      .div11{
+        margin: 0 260px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+      }
+      .div22{
+        margin: 50px 0 0 260px;
+        float: right;
+      }
+      .div44{
+        background-color: aliceblue;
+        /* padding: 20px; */
+        margin: 60px;
+        border-radius: 10px;
+        box-shadow: 8px 8px 8px;
+        text-align: justify;
+       
+      }
+      .ulf1{
+        list-style: none;
+      }
+    .iii{
+border-radius: 15px;
+box-shadow: 8px 8px 8px;
+
+    }
+    .addc{
+        background-color: rgb(255, 255, 255) !important;
+        border-radius: 5px;
+        padding: 8px 0 0 0;
+        border-color:rgb(56, 173, 219)  ;
+        text-align: center;
+        
+    }
+    .addc:hover{
+        background-color: rgb(56, 173, 219) !important;
+        border-color:rgb(56, 173, 219) ;
+    }
+    .tttt{
+        padding: 0 0 0 20px;
+        
+    }
+   
+      .div55{
+        background-color: aliceblue;
+        margin: 60px;
+        border-radius: 10px;
+        box-shadow: 8px 8px 8px;
+       
+      }
+      .sect55{
+        width: 100%;
+        background-color: rgb(230, 225, 219);
+        padding:0;
+      }
+      .foot1{
+        display: grid;
+          grid-template-columns: 1fr 1fr 1fr 1fr;
+          margin: 0 260px;
+          padding: 50px 0 0 0 ;
+          
+      }
+      .fa {
+        padding: 20px;
+        font-size: 30px;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+      }
+      footer{
+        width: 100%;
+        background-color: rgb(187, 182, 176);
+        padding: 20px;
+      }
+      .foot12{
+        background-color: rgb(241, 211, 172);
+      }
+      .fa:hover {
+        opacity: 0.7;
+      }
+      
+      .fa-facebook {
+      background: #3B5998;
+      color: white;
+      border-radius: 50%;
+      }
+      
+      .fa-twitter {
+      background: #55ACEE;
+      color: white;
+      border-radius: 50%;
+      }
+      
+      .fa-linkedin {
+      background: #007bb5;
+      color: white;
+      border-radius: 50%;
+      }
+      
+      .fa-youtube {
+      background: #bb0000;
+      color: white;
+      border-radius: 50%;
+      }
+      
+      .fa-instagram {
+      background: #125688;
+      color: white;
+      border-radius: 50%;
+      }
+      
+      .copy{
+        margin: 0 260px;
+      }
+      .copyright1 {
+        text-align: center;
+        float: left;}
+      
+        .credits1 {
+          float: right;
+          text-align: center;
+          font-size: 13px;
+          color: #212529;
+      }
+
+        /* .sect1{
+            width: 100%;
+        }
+        .div11{
+            display: grid;
+    grid-template-columns: 1fr 1fr;
+padding: 0 260px;
+}
+.sect22{
+    width: 100%;
+    background-color: rgb(245, 241, 236);
+}
+.unlii li{
+    list-style: none;
+    display: inline;
+    text-align: justify;
+    color: #000;
+  }
+  .liiss a{
+    padding: 10px;
+    color: rgb(0, 0, 0);
+  }
+  .liiss a:hover{
+    color: #fa761d;
+  } */
